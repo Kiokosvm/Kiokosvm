@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@Kiokosvm](https://github.com/Kiokosvm)
-- 👀 I’m interested in Software Engineering.
+- 👀 I’m a IT student and interested in Software Engineering.
 - 🌱 I’m currently learning full-stack web development.
 - 💞️ I’m looking to collaborate with like-minded peers.
 - 📫 Reach me **E-mail:** Kiokosvm97@gmail.com
